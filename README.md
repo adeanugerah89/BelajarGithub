@@ -57,3 +57,6 @@ Berikut daftar dari tag HTML dan CSS yang saya gunakan untuk membuat website ini
 # About me
 saya adalah salah satu siswa hacktiv8 yang sedang belajar bahasa program javascript.
 ini adalah salah satu tugas yang diberikan Hacktiv8 kepada saya.
+
+# Future Plans
+Saya berencana untuk membuat onlineShop dari ilmu yang saya pelajari.
