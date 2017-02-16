@@ -6,6 +6,6 @@ ini adalah tugas pertama saya dari hacktiv8 yang harus di upload di Github.
 
 Berikut daftar dari tag HTML dan CSS yang saya gunakan untuk membuat website ini.
 
-- '<html></html>'
-- <head></head>
-- <body></body>
+- html
+- head
+- body
